@@ -1,9 +1,9 @@
 name: HexxCore
-version: @version@
+version: 1.0-SNAPSHOT
 main: me.hexxcube.mcplugin.hexxcore.HexxCore
 api-version: "1.13"
 authors: [HexxCube]
-description: Core plugin for personal Spigot server.
+description: alias plugin
 website: hexx.ddns.net
 
 commands:

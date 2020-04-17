@@ -1,0 +1,7 @@
+name: HexxCore
+version: @version@
+main: me.hexxcube.mcplugin.hexxcore.HexxCore
+api-version: "1.13"
+authors: [HexxCube]
+description: alias plugin
+website: hexx.ddns.net
